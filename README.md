@@ -1,3 +1,8 @@
+##About
+The purpose of this app is to reduce CLI obstacles of operating a network by
+Hyperledger Fabric. This app provides a UI to the administrator to invoke
+commands. So the recursive CLI complication is eliminated by this project.
+
 ## How to run this project on you machine
 
 1. Make sure your machine has unix based operating system (Linux,macOS).
